@@ -1,0 +1,9 @@
+WEBSOCKET_URL = "ws://192.168.8.156:81/"
+MQTT_BROKER = "c4719088611840ba9a3e80adbee5ca25.s1.eu.hivemq.cloud"
+MQTT_PORT = 8883
+MQTT_USERNAME = "lytanloc"
+MQTT_PASSWORD = "Lytanloc123"
+GOOGLE_SHEET_API_FILE = "api.json"
+GOOGLE_SHEET_KEY = "1sWueZ_zcA9D-lyU5Ejfb8I5phTQVV6w03lgJx1sdZ5k"
+IMAGE_SAVE_FOLDER = "D:/hk1-nam4/DA2/anh/"
+sheet_hoadon = "1WbShTu9Gb32-ceR7_IDOTR-CjkpIOl5OEzGc050vfhM"
